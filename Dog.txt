@@ -10,4 +10,8 @@ public class SuperDog{
 		return "bark bark";
 	}
 
+	public void bark(){
+		print(super bark);
+	}
+
 }
